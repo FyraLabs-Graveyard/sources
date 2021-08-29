@@ -1,0 +1,1 @@
+SCM_UPSTREAM=git('https://gitlab.ultramarine-linux.org/design/logos.git')
